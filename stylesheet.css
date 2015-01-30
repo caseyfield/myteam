@@ -1,0 +1,17 @@
+img {
+	max-height: 100%;
+	margin-top: 20px;
+	margin-left: auto;
+	margin-right: auto;
+}
+h1 {
+	text-align: center;
+	color: red;
+	font-family: 'Open Sans', sans-serif;
+}
+th {
+	text-align: center;
+	color: red;
+	font-size: 1.5em;
+	font-family: 'Open Sans', sans-serif;
+}
